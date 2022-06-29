@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-[![Aryn's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aryangupta15&custom_title=Aryan's%20Contribution%20Graph&theme=github&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aryangupta15&custom_title=Aryan%20Github%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
