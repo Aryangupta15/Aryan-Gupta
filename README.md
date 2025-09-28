@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Aryangupta15/Aryan-Gupta/main/Aryan.gif" alt="banner" width="750" />
+<!-- <img src="https://raw.githubusercontent.com/Aryangupta15/Aryan-Gupta/main/Aryan.gif" alt="banner" width="750" /> -->
 
 <h1 align="center">Hey, I’m Aryan 👋</h1>
 <h3 align="center">Full-stack dev in the making • Tech explorer • Always learning</h3>
