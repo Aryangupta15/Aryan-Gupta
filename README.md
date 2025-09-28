@@ -1,5 +1,16 @@
 # 💫 About Me:
-<h1 align="center">Hey, I’m Aryan 👋</h1><br><h3 align="center">Full-stack dev in the making • Tech explorer • Always learning</h3><br><br>---<br><br>### 🚀 About Me<br>- 🎓 Final-year **B.Tech CSE** student  <br>- 🐍 **Python enthusiast** & dabbling with **Node.js / React**  <br>- 🌐 Learning **full-stack & Web3** stuff  <br>- 🏏 Love cricket, kabaddi & traveling  <br>- 💡 Big fan of building side-projects and open-source vibes<br><br>---
+<h1 align="center">Hey, I’m Aryan 👋</h1><br><h3 align="center">Full-stack dev in the making • Tech explorer • Always learning</h3><br><br>
+---
+
+## 🚀 About Me
+- 🎓 Final-year **B.Tech CSE** student  
+- 🐍 **Python enthusiast**, currently exploring **Node.js** & **React**  
+- 🌐 Learning **Full-stack** development & diving into **Web3**  
+- 🏏 Love **cricket**, **kabaddi**, and **traveling**  
+- 💡 Big fan of building **side projects** and contributing to **open source**
+
+---
+
 
 
 ## 🌐 Socials:
