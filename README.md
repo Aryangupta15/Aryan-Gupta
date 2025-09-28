@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hey, I’m Aryan 👋</h1><br><h3 align="center">Full-stack dev in the making • Tech explorer • Always learning</h3><br><br>
----
+
 
 ## 🚀 About Me
 - 🎓 Final-year **B.Tech CSE** student  
@@ -9,7 +9,7 @@
 - 🏏 Love **cricket**, **kabaddi**, and **traveling**  
 - 💡 Big fan of building **side projects** and contributing to **open source**
 
----
+
 
 
 
